@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Contributors 👋
 
 <!--
 **irfana2003/irfana2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Syed Irfana
+### I'm Irfana Syed
 #### Passionate Cloud Edge Computing Student  & Skilled Full-Stack Developer
  I'm currently pursuing Computer Science with a specialization in Cloud Edge Computing at Koneru Lakshmaiah Educational Foundations, Vijayawada. Known for my strong teamwork abilities and effective communication skills, I thrive in collaborative work environments and actively promote synergy within multidisciplinary teams.
 
